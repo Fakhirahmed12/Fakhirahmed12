@@ -103,7 +103,8 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 ---
 
 ### 🌐 Connect with Me
-
+[![Instagram](https://img.shields.io/badge/Instagram-B8A369?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fakhirahmed12/)
+[![Facebook](https://img.shields.io/badge/Facebook-B8A369?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fakhir.ahmed.96199)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8A369?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhir-ahmed-b23039293)
 
 ---
