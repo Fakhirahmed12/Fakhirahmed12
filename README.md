@@ -1,4 +1,5 @@
-[README.2.md](https://github.com/user-attachments/files/30281551/README.2.md)
+[README (2).md](https://github.com/user-attachments/files/30281903/README.2.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=200&section=header&text=Fakhir%20Ahmed&fontSize=55&fontColor=B8A369&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%"/>
@@ -42,7 +43,7 @@ const fakhirAhmed = {
 
 #### 🎮 Quiz Game with Levels
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=Quiz-Game-With-Levels&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+![Repo](https://img.shields.io/badge/repo-Quiz--game-1a1a1a?style=for-the-badge&logo=github&logoColor=B8A369&labelColor=1a1a1a) ![Language](https://img.shields.io/badge/C%2B%2B-100%25-B8A369?style=for-the-badge&logoColor=white)
 
 A C++ console-based quiz game with 5 difficulty levels (7 questions each), a 20-second timer per question, and live score tracking.
 
@@ -52,13 +53,13 @@ A C++ console-based quiz game with 5 difficulty levels (7 questions each), a 20-
 | Concepts | Functions, Loops, Arrays, Conditionals |
 | Interface | Console |
 
-🔗 [Code](https://github.com/Fakhirahmed12/Quiz-Game-With-Levels)
+🔗 [Code](https://github.com/Fakhirahmed12/Quiz-game)
 
 ---
 
 #### ⚡ Electricity Management System
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=Electricity-Management-System&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+![Repo](https://img.shields.io/badge/repo-Ems--_-1a1a1a?style=for-the-badge&logo=github&logoColor=B8A369&labelColor=1a1a1a) ![Language](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20C%2B%2B-B8A369?style=for-the-badge&logoColor=white)
 
 A C++ console app simulating K-Electric-style billing — secure admin login, NEPRA slab-rate bill calculation with GST, and payment status tracking.
 
@@ -68,13 +69,13 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 | Concepts | Functions, Conditionals, `<iomanip>` formatting |
 | Interface | Console |
 
-🔗 [Code](https://github.com/Fakhirahmed12/Electricity-Management-System)
+🔗 [Code](https://github.com/Fakhirahmed12/Ems-)
 
 ---
 
 #### 💪 FitLife — Fitness Companion App
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=FitLife-Fitness-App&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+![Repo](https://img.shields.io/badge/repo-fitlife--app-1a1a1a?style=for-the-badge&logo=github&logoColor=B8A369&labelColor=1a1a1a) ![Live](https://img.shields.io/badge/status-live-B8A369?style=for-the-badge&logoColor=white)
 
 A full-stack fitness web app with personalized workout plans (Beginner/Intermediate/Advanced), diet plans by goal, water & step trackers, BMI/calorie calculator, progress charts, and a C++ backend API.
 
@@ -85,23 +86,7 @@ A full-stack fitness web app with personalized workout plans (Beginner/Intermedi
 | Charts | Chart.js |
 | Interface | Web (dark/light mode) |
 
-🔗 [Code](https://github.com/Fakhirahmed12/FitLife-Fitness-App)
-
----
-
-#### 🏋️ Gym Management System
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=Gym-Management-System&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
-
-A gym admin dashboard for managing memberships, attendance, fee payments, and SMS notifications — with a real-time overview of members due/overdue on payments.
-
-| Layer | Technology |
-|---|---|
-| Framework | Next.js, React |
-| UI | Tailwind CSS, Radix UI |
-| Modules | Members, Attendance, Payments, SMS Logs |
-
-🔗 [Code](https://github.com/Fakhirahmed12/Gym-Management-System)
+🔗 [Code](https://github.com/Fakhirahmed12/fitlife-app) • 🌐 [Live Demo](https://fakhirahmed12.github.io/fitlife-app/)
 
 ---
 
@@ -122,7 +107,7 @@ A gym admin dashboard for managing memberships, attendance, fee payments, and SM
 <img src="https://github-readme-stats.vercel.app/api?username=Fakhirahmed12&show_icons=true&theme=nord&border_color=B8A369&title_color=B8A369&icon_color=B8A369&text_color=c9cbff" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhirahmed12&layout=compact&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
 
-<img src="https://streak-stats.demolab.com?user=Fakhirahmed12&theme=nord&border=B8A369&ring=B8A369&fire=B8A369" />
+<img src="https://streak-stats.demolab.com?user=Fakhirahmed12&theme=nord&hide_border=true&background=1A1A1AF2&border=B8A369&ring=B8A369&fire=B8A369&currStreakLabel=B8A369&sideLabels=B8A369&dates=9a9a95" />
 
 ---
 
