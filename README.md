@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/30281903/README.2.md)
+[README (1).md](https://github.com/user-attachments/files/30281995/README.1.md)
 
 <div align="center">
 
@@ -59,7 +59,7 @@ A C++ console-based quiz game with 5 difficulty levels (7 questions each), a 20-
 
 #### ⚡ Electricity Management System
 
-![Repo](https://img.shields.io/badge/repo-Ems--_-1a1a1a?style=for-the-badge&logo=github&logoColor=B8A369&labelColor=1a1a1a) ![Language](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20C%2B%2B-B8A369?style=for-the-badge&logoColor=white)
+![Repo](https://img.shields.io/badge/repo-Ems--_-1a1a1a?style=for-the-badge&logo=github&logoColor=B8A369&labelColor=1a1a1a) ![Live](https://img.shields.io/badge/status-live-B8A369?style=for-the-badge&logoColor=white)
 
 A C++ console app simulating K-Electric-style billing — secure admin login, NEPRA slab-rate bill calculation with GST, and payment status tracking.
 
@@ -69,7 +69,7 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 | Concepts | Functions, Conditionals, `<iomanip>` formatting |
 | Interface | Console |
 
-🔗 [Code](https://github.com/Fakhirahmed12/Ems-)
+🔗 [Code](https://github.com/Fakhirahmed12/Ems-) • 🌐 [Live Demo](https://fakhirahmed12.github.io/Ems-/)
 
 ---
 
@@ -104,22 +104,23 @@ A full-stack fitness web app with personalized workout plans (Beginner/Intermedi
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fakhirahmed12&show_icons=true&theme=nord&border_color=B8A369&title_color=B8A369&icon_color=B8A369&text_color=c9cbff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhirahmed12&layout=compact&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+![Followers](https://img.shields.io/github/followers/Fakhirahmed12?style=for-the-badge&color=B8A369&labelColor=1a1a1a&logo=github) ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Fakhirahmed12&query=%24.public_repos&label=Repos&style=for-the-badge&color=B8A369&labelColor=1a1a1a&logo=github)
+
+![Top Language](https://img.shields.io/badge/Top%20Language-C%2B%2B-B8A369?style=for-the-badge&labelColor=1a1a1a&logo=cplusplus&logoColor=white)
 
 <img src="https://streak-stats.demolab.com?user=Fakhirahmed12&theme=nord&hide_border=true&background=1A1A1AF2&border=B8A369&ring=B8A369&fire=B8A369&currStreakLabel=B8A369&sideLabels=B8A369&dates=9a9a95" />
 
 ---
 
-### 🏆 Trophies
+### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fakhirahmed12&no-frame=true&no-bg=true&theme=nord&column=7" />
+![Repos](https://img.shields.io/badge/Repositories-4-B8A369?style=for-the-badge&labelColor=1a1a1a&logo=github) ![Stars](https://img.shields.io/github/stars/Fakhirahmed12?style=for-the-badge&color=B8A369&labelColor=1a1a1a&logo=github) ![Joined](https://img.shields.io/badge/Joined-2026-B8A369?style=for-the-badge&labelColor=1a1a1a)
 
 ---
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fakhirahmed12&theme=nord&color=B8A369&line=B8A369&point=c9cbff" />
+[![View my GitHub contribution graph](https://img.shields.io/badge/View%20Contributions-on%20GitHub-B8A369?style=for-the-badge&labelColor=1a1a1a&logo=github)](https://github.com/Fakhirahmed12)
 
 ---
 
