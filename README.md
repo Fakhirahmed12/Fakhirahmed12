@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/30281258/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=200&section=header&text=Fakhir%20Ahmed&fontSize=55&fontColor=B8A369&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%"/>
@@ -22,10 +23,12 @@
 ```typescript
 const fakhirAhmed = {
   title: "Computer Engineering Student",
-  stack: ["HTML", "CSS", "C++", "Java", "Python", "JavaScript"],
+  stack: ["HTML", "CSS", "C++", "Java", "Python", "JavaScript", "React", "Next.js"],
   launchedProjects: [
     "Quiz Game with Levels",
-    "Electricity Management System"
+    "Electricity Management System",
+    "FitLife - Fitness Companion App",
+    "Gym Management System"
   ],
   certifications: [],
   status: "Learning & building beginner-friendly projects",
@@ -69,6 +72,39 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 
 ---
 
+#### 💪 FitLife — Fitness Companion App
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=FitLife-Fitness-App&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+
+A full-stack fitness web app with personalized workout plans (Beginner/Intermediate/Advanced), diet plans by goal, water & step trackers, BMI/calorie calculator, progress charts, and a C++ backend API.
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | C++ (POSIX sockets, REST API) |
+| Charts | Chart.js |
+| Interface | Web (dark/light mode) |
+
+🔗 [Code](https://github.com/Fakhirahmed12/FitLife-Fitness-App)
+
+---
+
+#### 🏋️ Gym Management System
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakhirahmed12&repo=Gym-Management-System&theme=nord&border_color=B8A369&title_color=B8A369&text_color=c9cbff" />
+
+A gym admin dashboard for managing memberships, attendance, fee payments, and SMS notifications — with a real-time overview of members due/overdue on payments.
+
+| Layer | Technology |
+|---|---|
+| Framework | Next.js, React |
+| UI | Tailwind CSS, Radix UI |
+| Modules | Members, Attendance, Payments, SMS Logs |
+
+🔗 [Code](https://github.com/Fakhirahmed12/Gym-Management-System)
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -77,7 +113,7 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark)
 
 ---
 
@@ -103,9 +139,10 @@ A C++ console app simulating K-Electric-style billing — secure admin login, NE
 ---
 
 ### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B8A369?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhir-ahmed-b23039293)
 [![Instagram](https://img.shields.io/badge/Instagram-B8A369?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fakhirahmed12/)
 [![Facebook](https://img.shields.io/badge/Facebook-B8A369?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fakhir.ahmed.96199)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B8A369?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhir-ahmed-b23039293)
 
 ---
 
