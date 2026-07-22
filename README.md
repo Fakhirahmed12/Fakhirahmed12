@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/30281258/README.2.md)
+[README.2.md](https://github.com/user-attachments/files/30281551/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=200&section=header&text=Fakhir%20Ahmed&fontSize=55&fontColor=B8A369&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%"/>
